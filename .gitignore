@@ -1,0 +1,9 @@
+
+Library
+Logs
+obj
+UserSettings
+*.csproj
+.vs/OBB/v16/.suo
+.vsconfig
+OBB.sln
